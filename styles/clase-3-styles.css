@@ -110,8 +110,11 @@ input {
         display: block;
     }
 
-    .forgot-password {
-        margin-bottom: 120px;
+    .secondary-button {
+        width: 300px;
+        position: absolute;
+        bottom: 0;
+        margin-bottom: 24px;
     }
 }
 
