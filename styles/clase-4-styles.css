@@ -37,7 +37,7 @@ body {
 .title {
     font-size: var(--lg);
     margin-bottom: 36px;
-    text-align: center;
+    text-align: start;
 }
 
 .form {
@@ -57,7 +57,7 @@ body {
 }
 
 .input {
-    background-color: var(--white) ;
+    background-color: var(--text-input-field) ;
     border: none;
     border-radius: 8px;
     height: 30px;
