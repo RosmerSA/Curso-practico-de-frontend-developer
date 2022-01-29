@@ -35,6 +35,10 @@ body {
     list-style: none;
 }
 
+.mobile-menu ul:nth-child(1) {
+    border-bottom: 1px solid var(--very-light-pink);
+}
+
 .mobile-menu li {
     margin-bottom: 20px;
 }
